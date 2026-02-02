@@ -10,6 +10,8 @@ body{
     justify-content: center;
     flex-direction: column;
     background-image: linear-gradient(125deg, rgb(105, 238, 105), rgb(27, 27, 143));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 header {
